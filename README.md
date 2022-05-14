@@ -16,11 +16,9 @@
 
 ### Connect with me:
 
-<a href ="https://outlook.live.com/owa/" ><img align="left" alt="fb" width="50px" height = "50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UJH2NOsbLr5njIjMFGbl4UnMDNYq7y6Iw&usqp=CAU" /></a>
+<a href ="https://wallpaperaccess.com/full/1521561.jpg" ><img align="left" alt="fb" width="50px" height = "50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UJH2NOsbLr5njIjMFGbl4UnMDNYq7y6Iw&usqp=CAU" /></a>
   
   <br>
-  
-  <hr>
   
 ### Languages and Tools:
   
