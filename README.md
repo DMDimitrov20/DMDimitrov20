@@ -3,21 +3,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img align="right" height="250" width="375" alt="" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+<img align="right" height="250" width="375" alt="gif" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
 
 ## Talking about personal stuff:
  
-- 🌱 &nbsp;I’m currently learning HTML5&CSS3, C++ and JS.
-- 👨🏻‍💻 &nbsp; I'm still learning how to use Github.
+- 🌱 &nbsp;I’m currently learning JS and SASS.
 - 📫 &nbsp; How to reach me: DMDimitrov20@codingburgas.bg
-- 👾 &nbsp; Fun fact about me : I like making websites. 
-
+- 👾 &nbsp; Fun fact about me : I like Maths. 
 <hr>
 
-### Connect with me:
-
-<a href ="https://wallpaperaccess.com/full/1521561.jpg" ><img align="left" alt="fb" width="50px" height = "50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UJH2NOsbLr5njIjMFGbl4UnMDNYq7y6Iw&usqp=CAU" /></a>
-  
   <br>
   
 ### Languages and Tools:
