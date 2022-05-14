@@ -33,8 +33,8 @@
   <summary><b>📚 Badges</b></summary>
     
   <a href = "https://www.credly.com/earner/earned/badge/8c563b6a-87b3-4446-a564-332b451d2593" width="200px" src =  "https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png"></a>
-    <a href = "https://www.credly.com/earner/earned/badge/8c563b6a-87b3-4446-a564-332b451d2593">
-  <img align="left" alt="MicrosoftOS" width="200px" src =  "https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png"></a>
+    <a href = "https://www.credly.com/earner/earned/badge/8c563b6a-87b3-4446-a564-332b451d2593"
+   alt="MicrosoftOS" width="200px" src = "https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png"></a>
  </details>
   
 <br>
