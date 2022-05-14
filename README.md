@@ -11,8 +11,6 @@
 - 📫 &nbsp; How to reach me: DMDimitrov20@codingburgas.bg
 - 👾 &nbsp; Fun fact about me : I like Maths. 
 <hr>
-
-  <br>
   
 ### Languages and Tools:
   
@@ -20,6 +18,8 @@
   <code><img alt="JS" width = "35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
   <code><img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
+  
+  <hr>
   
   ## Badges and other stuff:
   <details style = "display: inline;">
