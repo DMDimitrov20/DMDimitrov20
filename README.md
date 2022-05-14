@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-<a href ="https://outlook.live.com/owa/" ><img align="left" alt="fb" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UJH2NOsbLr5njIjMFGbl4UnMDNYq7y6Iw&usqp=CAU" /></a>
+<a href ="https://outlook.live.com/owa/" ><img align="left" alt="fb" width="26px" height = "26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UJH2NOsbLr5njIjMFGbl4UnMDNYq7y6Iw&usqp=CAU" /></a>
   
   <br>
   
