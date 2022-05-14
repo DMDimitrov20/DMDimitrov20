@@ -16,17 +16,18 @@
 
 ### Connect with me:
 
-<a href ="https://outlook.live.com/owa/" ><img align="left" alt="fb" width="26px" height = "26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UJH2NOsbLr5njIjMFGbl4UnMDNYq7y6Iw&usqp=CAU" /></a>
+<a href ="https://outlook.live.com/owa/" ><img align="left" alt="fb" width="50px" height = "50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UJH2NOsbLr5njIjMFGbl4UnMDNYq7y6Iw&usqp=CAU" /></a>
   
   <br>
   
   <hr>
   
-### Language and Tools:
+### Languages and Tools:
   
-  <code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
-  <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
-  <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
+  <code><img alt="CPP" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
+  <code><img alt="JS" width = "35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
+  <code><img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
   
   ## Badges and other stuff:
   <details style = "display: inline;">
