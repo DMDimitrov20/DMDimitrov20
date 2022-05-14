@@ -30,6 +30,12 @@
  <a href = "https://www.credly.com/earner/earned/badge/ee2c222e-92fd-4682-affb-8ea6da2669cc"><img align  = "left" alt = "Word" width = "200px" src = "https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png"></a>
  </details>
   
+  
+  <details>
+ <summary>Github Stats</summary>
+ <p><img align = "elft" src = "https://github-readme-stats.vercel.app/api?username=dmdimitrov20&show_icons=true&theme=tokyonight&title_color=A01EE1&text_color=5E54DA" alt = "dmdimitrov20"></p>
+ </details>
+ 
 <br>
   <hr>
 <div align="center">
