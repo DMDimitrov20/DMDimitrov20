@@ -9,7 +9,6 @@
  
 - 🌱 &nbsp;I’m currently learning JS and SASS.
 - 📫 &nbsp; How to reach me: DMDimitrov20@codingburgas.bg
-- 👾 &nbsp; Fun fact about me : I like Maths. 
 <hr>
   
 ### Languages and Tools:
