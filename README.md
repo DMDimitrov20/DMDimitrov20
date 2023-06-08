@@ -39,6 +39,6 @@
   <hr>
 <div align="center">
 
-# Always follow your dreams!
+### All weight is lightweight!
 
 </div>
